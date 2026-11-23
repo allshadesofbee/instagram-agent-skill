@@ -6,11 +6,15 @@ Generated 23 Nov 2026 · @all.shades.of.b · profile score 61/100
 | name | cover text | job |
 |---|---|---|
 | Start Here | More / than / one / thing. | who this is |
-| The Book | The / Woman / Who / Never / Asks. | the proof + conversion |
+| The Ask | The / Woman / Who / Never / Asks. | the idea AND the book, merged |
 | Speaking | Speaking. · Rooms, panels, platforms. | credibility for organisers |
 | On AI | Who is / accountable / when it / gets it / wrong? | professional authority |
-| *The Ask* (opt) | Asking is not weakness. | the distinctive territory |
-| *Rooted* (opt) | Rooted in Christ. | faith as its own door |
+| *Rooted* (opt) | Rooted in Christ. | only if six frames exist |
+
+The Ask merges what were two highlights. The book's subject IS the ask, and the
+brand framework says to connect book promotion naturally to discussions about
+asking rather than siloing it. Name sells the idea, cover sells the book.
+Frames run idea-first (6), link sticker last (1). Run four, not five.
 
 Treatment: cream ground, brand serif, black type, no photo behind the words.
 Names truncate ~10 chars on profile. Never exceed six highlights.
